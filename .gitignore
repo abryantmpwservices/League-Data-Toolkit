@@ -427,3 +427,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# League Data Toolkit local data
+/transforms-local/
+/conversion-output/
+/conversion-reports/
+/user-settings/
+
+# Real or unsanitized exports
+*.private.csv
+*.private.xlsx
+/samples/private/

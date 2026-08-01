@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/apps/">
+    <Project Path="src/LeagueDataToolkit.Cli/LeagueDataToolkit.Cli.csproj" />
+    <Project Path="src/LeagueDataToolkit.Desktop/LeagueDataToolkit.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/LeagueDataToolkit.Configuration/LeagueDataToolkit.Configuration.csproj" />
+    <Project Path="src/LeagueDataToolkit.Core/LeagueDataToolkit.Core.csproj" />
+    <Project Path="src/LeagueDataToolkit.FileFormats/LeagueDataToolkit.FileFormats.csproj" />
+    <Project Path="src/LeagueDataToolkit.Transforms/LeagueDataToolkit.Transforms.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LeagueDataToolkit.Configuration.Tests/LeagueDataToolkit.Configuration.Tests.csproj" />
+    <Project Path="tests/LeagueDataToolkit.Core.Tests/LeagueDataToolkit.Core.Tests.csproj" />
+    <Project Path="tests/LeagueDataToolkit.FileFormats.Tests/LeagueDataToolkit.FileFormats.Tests.csproj" />
+    <Project Path="tests/LeagueDataToolkit.IntegrationTests/LeagueDataToolkit.IntegrationTests.csproj" />
+    <Project Path="tests/LeagueDataToolkit.Transforms.Tests/LeagueDataToolkit.Transforms.Tests.csproj" />
+  </Folder>
+</Solution>
